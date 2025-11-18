@@ -1,7 +1,7 @@
 Proceso funciones_en_secuencia	
     Definir numero, resultado_g, resultado_final Como Real
 	
-    Escribir "Ingresa un número: "
+    Escribir "Ingresa un numero: "
     Leer numero
 	
     // funcion g = le suma 3
@@ -12,3 +12,4 @@ Proceso funciones_en_secuencia
 	
     Escribir "El resultado final es: ", resultado_final	
 FinProceso
+
